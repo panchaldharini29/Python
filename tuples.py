@@ -51,3 +51,5 @@ printThreeArguments(*myArguments)
 def anyNoOfArguments(*args):
 	print(args)
 anyNoOfArguments(0, 5, 7, 9, "lion")
+
+print(type(animals)) #animals' datatype - tuple
