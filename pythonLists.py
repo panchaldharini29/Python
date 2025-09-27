@@ -65,3 +65,5 @@ squares[2:4] = ["Four", "Nine"]
 print("Ressign value:",squares )
 del squares[4:6]
 print("Delete value:", squares)
+
+print(type(fruits)) #fruits' datatype - list: <class 'list'>
